@@ -50,6 +50,12 @@ a:hover {
   color: #4e4e4e;
 }
 
+.col-centered {
+  display: inline-block;
+  float: none;
+  margin: 0 auto;
+}
+
 .box-shadow,
 .paralax-mf,
 .service-box,
